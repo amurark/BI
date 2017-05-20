@@ -1,0 +1,7 @@
+[2017-01-23 15:25:29,711] INFO Creating /brokers/ids/0 (is it secure? false) (kafka.utils.ZKCheckedEphemeral)
+[2017-01-23 15:25:29,714] INFO Result of znode creation is: OK (kafka.utils.ZKCheckedEphemeral)
+[2017-01-23 15:25:29,714] INFO Registered broker 0 at path /brokers/ids/0 with addresses: PLAINTEXT -> EndPoint(192.168.0.7,9092,PLAINTEXT) (kafka.utils.ZkUtils)
+[2017-01-23 15:25:29,714] INFO done re-registering broker (kafka.server.KafkaHealthcheck$SessionExpireListener)
+[2017-01-23 15:25:29,714] INFO Subscribing to /brokers/topics path to watch for new topics (kafka.server.KafkaHealthcheck$SessionExpireListener)
+[2017-01-23 15:25:29,718] INFO New leader is 0 (kafka.server.ZookeeperLeaderElector$LeaderChangeListener)
+[2017-01-23 15:25:29,721] INFO New leader is 0 (kafka.server.ZookeeperLeaderElector$LeaderChangeListener)

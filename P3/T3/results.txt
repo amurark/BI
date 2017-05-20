@@ -1,0 +1,74 @@
+IMDB DOC2VEC
+
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		10317	2183
+neg		6940	5560
+accuracy: 0.635080
+
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		10812	1688
+neg		1741	10759
+accuracy: 0.862840
+
+TWITTER DOC2VEC
+
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		29329	45671
+neg		19797	55203
+accuracy: 0.563547
+
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		44457	30543
+neg		17907	57093
+accuracy: 0.677000
+
+
+TWITTER NLP
+
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		25625	49375
+neg		9499	65501
+accuracy: 0.607507
+
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		25337	49663
+neg		8900	66100
+accuracy: 0.609580
+
+
+
+IMBD NLP
+
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		10343	2157
+neg		1728	10772
+accuracy: 0.844600
+
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		10427	2073
+neg		1756	10744
+accuracy: 0.846840

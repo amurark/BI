@@ -1,0 +1,3 @@
+[2017-01-23 15:25:29,714] DEBUG [IsrChangeNotificationListener] Fired!!! (kafka.controller.IsrChangeNotificationListener)
+[2017-01-23 15:25:29,716] INFO [BrokerChangeListener on Controller 0]: Broker change listener fired for path /brokers/ids with children 0 (kafka.controller.ReplicaStateMachine$BrokerChangeListener)
+[2017-01-23 15:25:29,719] INFO [AddPartitionsListener on 0]: Partition modification triggered {"version":1,"partitions":{"0":[0]}} for path /brokers/topics/twitterstream (kafka.controller.PartitionStateMachine$PartitionModificationsListener)

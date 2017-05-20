@@ -1,0 +1,10 @@
+PYTHON TUTORIAL
+
+Hi Professor,
+
+I am writing to request to be exempted from completing the Python Tutorial in CSC 591: Algorithms for Data Guided Business Intelligence. The reasons for the same are my prior familiarity with Python 3 in the course CSC 522: Automated Learning and Data Analysis. I had completed a course project and homework assignments in CSC 522 with sufficient coding in Python. So, I kindly request you to excuse me from completing the Tutorial on Python.
+
+Thanks
+Ankit Murarka
+200111393
+
